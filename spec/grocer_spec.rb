@@ -317,4 +317,3 @@ describe "Grocer" do
     end
   end
 end
-
